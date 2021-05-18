@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
-  branch: master
+  repo: jbag123/starter-gatsby-blog
+  branch: main
 
 media_folder: "images/uploads"
 
