@@ -77,6 +77,6 @@ module.exports = {
         openAnalyzer: false,
       },
     },
-    `gatsby-plugin-netlify-cms`
+    `gatsby-plugin-netlify-cms`,
   ].filter(Boolean),
 }
